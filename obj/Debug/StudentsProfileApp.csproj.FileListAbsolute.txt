@@ -1,0 +1,10 @@
+C:\Users\rezau\source\repos\StudentsProfileApp\bin\Debug\StudentsProfileApp.exe.config
+C:\Users\rezau\source\repos\StudentsProfileApp\bin\Debug\StudentsProfileApp.exe
+C:\Users\rezau\source\repos\StudentsProfileApp\bin\Debug\StudentsProfileApp.pdb
+C:\Users\rezau\source\repos\StudentsProfileApp\obj\Debug\StudentsProfileApp.csprojAssemblyReference.cache
+C:\Users\rezau\source\repos\StudentsProfileApp\obj\Debug\StudentsProfileApp.Form1.resources
+C:\Users\rezau\source\repos\StudentsProfileApp\obj\Debug\StudentsProfileApp.Properties.Resources.resources
+C:\Users\rezau\source\repos\StudentsProfileApp\obj\Debug\StudentsProfileApp.csproj.GenerateResource.cache
+C:\Users\rezau\source\repos\StudentsProfileApp\obj\Debug\StudentsProfileApp.csproj.CoreCompileInputs.cache
+C:\Users\rezau\source\repos\StudentsProfileApp\obj\Debug\StudentsProfileApp.exe
+C:\Users\rezau\source\repos\StudentsProfileApp\obj\Debug\StudentsProfileApp.pdb
